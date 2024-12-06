@@ -24,3 +24,7 @@ sql dump file:
 - > mysql -u <user_name> -p accounts < db_backup.sql
 
 ########### This is a test 2 #############
+
+.
+
+########### This is a test 3 #############
